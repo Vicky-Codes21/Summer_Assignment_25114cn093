@@ -10,5 +10,5 @@ int main(){
         n=n/10;
     }
     cout<<"Sum of the digits is "<<sum;
-    return 0;
+    return 0 ;
 }
