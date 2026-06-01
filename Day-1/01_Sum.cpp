@@ -6,5 +6,5 @@ int main(){
     cin>>n;
     int sum =n*(n+1)/2;
     cout<<sum;
-    return 0 ;
+    return 0;
 }
