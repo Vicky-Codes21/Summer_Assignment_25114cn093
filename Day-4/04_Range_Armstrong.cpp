@@ -9,10 +9,6 @@ int main(){
         sum=0;
         count=0;
         temp=i;
-        /*if(temp==0){
-            cout<<"Armstrong Number.";
-        }*/
-        
         while(temp!=0){
             count++;
             temp=temp/10;
