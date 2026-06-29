@@ -1,79 +1,128 @@
-Summer Assignment - C++ Programming
+# 💻 Summer Assignment - C++ Programming
 
-About
+> A collection of C++ programming assignments completed during my B.Tech journey.
 
-This repository contains my C++ programming assignments completed during my B.Tech Summer Assignment. The programs are designed to strengthen my understanding of programming fundamentals, logical thinking, and problem-solving skills.
+---
 
-Student Information
+## 📌 About
 
-Name: Vivek
-Course: B.Tech – Computer Science with Data Science (CSDS)
-College: GL Bajaj Institute of Technology and Management
-Academic Session: Summer Assignment
-Topics Covered
+This repository contains all the C++ programs assigned during my Summer Assignment. The objective of these assignments is to build a strong foundation in programming, logical thinking, and problem-solving.
 
-This repository includes programs based on:
+---
 
-Basic C++ Programming
-Input and Output
-Operators
-Conditional Statements
-Loops
-Functions
-Arrays
-Strings
-Pointers
-References
-Pattern Printing
-Searching Algorithms
-Sorting Algorithms
-Number Programs
-String Manipulation
-Mini Projects
+## 🎯 Objectives
 
-Objectives
+* Learn C++ Programming Fundamentals
+* Improve Logical Thinking
+* Strengthen Problem Solving Skills
+* Practice Data Structures Basics
+* Prepare for Coding Interviews
 
-Practice C++ programming concepts
-Improve logical thinking
-Strengthen problem-solving skills
-Complete college laboratory assignments
-Build a strong programming foundation for Data Structures and Algorithms (DSA)
+---
 
-Technologies Used
+## 🛠️ Tech Stack
 
-Language: C++
-Compiler: GCC (g++)
-IDE: Visual Studio Code
+* **Language:** C++
+* **Compiler:** GCC (g++)
+* **IDE:** Visual Studio Code
+* **Version Control:** Git & GitHub
 
-Repository Structure
+---
 
-Summer_Assignment_25114cn093/
+# 📚 Assignment Roadmap
+
+## Day 1–5
+
+* Variables & Data Types
+* Operators
+* Input & Output
+* Conditional Statements
+* Loops
+
+## Day 6–10
+
+* Pattern Printing
+* Number Programs
+* Functions
+* Recursion Basics
+
+## Day 11–15
+
+* Arrays
+* Searching
+* Sorting
+
+## Day 16–20
+
+* Strings
+* Character Arrays
+* String Manipulation
+
+## Day 21–25
+
+* Advanced Array Problems
+* Advanced String Problems
+
+## Day 26–30
+
+* Mini Projects
+* ATM Simulation
+* Student Management System
+* Library Management System
+* Inventory Management System
+* Menu Driven Programs
+
+---
+
+# 📂 Repository Structure
+
+```text
+Summer_Assignment_25114cn093
 │
-├── Day_01/
-├── Day_02/
-├── Day_03/
+├── Day 01
+├── Day 02
+├── Day 03
+├── Day 04
+├── Day 05
 ├── ...
-├── Day_30/
+├── Day 30
+│
 └── README.md
+```
 
-Learning Outcome
+---
 
-Through these assignments, I have gained practical experience with:
+# 🎓 Learning Outcomes
 
-C++ syntax and programming fundamentals
-Writing clean and structured programs
-Array and string manipulation
-Function implementation
-Problem-solving techniques
-Basic algorithmic thinking
-Future Improvements
+By completing these assignments, I learned:
 
-Disclaimer
+* ✅ C++ Fundamentals
+* ✅ Functions
+* ✅ Arrays
+* ✅ Strings
+* ✅ Pointers
+* ✅ References
+* ✅ Problem Solving
+* ✅ Mini Projects
+* ✅ Basic DSA Concepts
 
-This repository has been created for educational purposes as part of my B.Tech coursework.
+---
 
-Author
 
-Vivek
-B.Tech – Computer Science with Data Science (CSDS)
-GL Bajaj Institute of Technology and Management
+# 🤝 Contributions
+
+This repository is maintained for learning purposes. Suggestions and improvements are always welcome.
+
+---
+
+## 👨‍💻 Author
+
+**Vivek**
+
+**B.Tech – Computer Science & Data Science (CSDS)**
+
+**GL Bajaj Institute of Technology and Management**
+
+---
+
+⭐ If you found this repository helpful, consider giving it a star.
